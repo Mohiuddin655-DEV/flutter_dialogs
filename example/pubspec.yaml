@@ -10,9 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  app_dialogs:
+  flutter_dialogs:
     path: ../
 
+
+  app_color: ^0.0.2
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
